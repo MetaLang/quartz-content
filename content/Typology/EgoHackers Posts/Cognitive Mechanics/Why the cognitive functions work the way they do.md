@@ -1,0 +1,1 @@
+The entire reason MBTI exists and works the way it does is because the brain is always trying to find the optimal minimum energy usage while accomplishing what it needs to do.

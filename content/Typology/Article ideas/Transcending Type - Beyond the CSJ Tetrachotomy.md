@@ -1,0 +1,1 @@
+- Each side of the mind has 4 ego functions and 4 unconscious functions
