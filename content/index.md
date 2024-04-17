@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Typology Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+These are some of my collected notes on typology from various Discord servers.
